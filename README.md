@@ -1,4 +1,14 @@
-﻿# CampusMate
+﻿---
+title: CampusMate
+emoji: 🎓
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+app_file: app.py
+pinned: false
+---
+
+# CampusMate
 
 CampusMate is a local student AI assistant built with a fine-tuned GPT-2 model, Python utilities, and Gradio.
 
